@@ -4,7 +4,8 @@ IBM Cloud. In this project we will be getting a machine to talk us and to quckly
 # Features
 * Translate speech to text
 * Detect a command to translate a phrase to French and play it back
-* Add another command to launch an application.
+* Add another command to launch an application. (Internet Explorer).
+* Senses hesitation and word confidence. If 'uh' is said it will tell you there's hesitation
 
 
 ## Requirements
