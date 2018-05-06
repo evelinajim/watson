@@ -4,7 +4,7 @@ IBM Cloud. In this project we will be getting a machine to talk us and to quckly
 # Features
 * Translate speech to text
 * Detect a command to translate a phrase to French and play it back
-* Add another command to launch an application. (Internet Explorer).
+* Launches an application. (Internet Explorer).
 * Senses hesitation and word confidence. If 'uh' is said it will tell you there's hesitation
 
 
@@ -23,7 +23,17 @@ IBM Cloud. In this project we will be getting a machine to talk us and to quckly
 * Windows 10 Pro
 
 ## Run IBM Cloud
-* Start the program and say hello
+* Must say hello before starting each command.
+
+# To translate speach to french
 * Say 'go.' to activate the gathering commands
 * Say a word of phrase you want translated to French
-* Wait for the program to gather 3 times. By the third it should be speaking English
+* Wait for the program to gather 3 times. By the third it should repeat what you said in French.
+
+# To catch hesitation
+* Say 'uhm' at any point in your sentence; Watson will tell you if you hesitated.
+
+# To open web browser
+* Say hello.
+* Say open.
+* Your application should be launched
