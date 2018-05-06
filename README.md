@@ -1,4 +1,4 @@
-# watson
+# Watson
 IBM Cloud. In this project we will be getting a machine to talk us and to quckly understand 
 
 # Features
@@ -39,4 +39,4 @@ IBM Cloud. In this project we will be getting a machine to talk us and to quckly
 * Your application should be launched
 
 # Youtube
-* An runthrough of how the program works: 
+* example of how the program should work: https://youtu.be/rthQ3LtYttg
