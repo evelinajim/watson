@@ -25,7 +25,7 @@ IBM Cloud. In this project we will be getting a machine to talk us and to quckly
 # Run IBM Cloud
 * Must say hello before starting each command.
 
-## To translate speach to french
+## To translate speech to text and then play it back infrench
 * Say 'go.' to activate the gathering commands
 * Say a word of phrase you want translated to French
 * Wait for the program to gather 3 times. By the third it should repeat what you said in French.
@@ -39,4 +39,4 @@ IBM Cloud. In this project we will be getting a machine to talk us and to quckly
 * Your application should be launched
 
 # Youtube
-* example of how the program should work: https://youtu.be/rthQ3LtYttg
+* example of how the program should work: https://www.youtube.com/watch?v=z_pt8ivhM3g
